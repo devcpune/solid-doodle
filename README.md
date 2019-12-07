@@ -1,5 +1,6 @@
 # solid-doodle
 Repo for our first Hack Day in December 2019.
 
-# Team Name
-* NewCoders
+
+# Team / Hacker Name
+ * DevCPune
