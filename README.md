@@ -1,43 +1,5 @@
 # solid-doodle
 Repo for our first Hack Day in December 2019.
-
-# Team / Hacker Names
-
- * DevCPune
- 
- 
- * The S.C.R.I.P.T Group
- 
- 
- * Script
- 
- 
- * XeonAJ
- 
- 
- * NewCoders
- 
- 
- * Angry Buddha
- 
- 
- * HackPac
- 
- 
- * Octa Cat Adventures : https://github.com/sauravsomxz/Rock-Paper-Scissor
- 
- 
- * Vivek Singh
- 
- 
- * Parikshit
- 
- 
- * Evenger
-
-
- * Lucifer †  
- 
  
 ## Hacker Name
 Lucifer †   
@@ -74,10 +36,10 @@ https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
 Angry Buddha
  
 ## Team Members
- - Aniruddha Kibey
- - Devendra Bhat
- - Shagun Kaushik
- - Shreyas Kalmegh
+- Aniruddha Kibey
+- Devendra Bhat
+- Shagun Kaushik
+- Shreyas Kalmegh
 
 ## Description
 Millions of saplings are planted evey year, and millions die too. Because they are not taken care of. 
@@ -161,11 +123,10 @@ https://github.com/pratikdaigavane/Son-Of-Anton
  
 
 ## Team Name 
-CodeAi
-  - Amar Nagargoje
-  - Atharva Barve
-  - Tejas Bhadane
-  - Nirav Madariya
+- Amar Nagargoje
+- Atharva Barve
+- Tejas Bhadane
+- Nirav Madariya
   
 ## Description
 Our app enables special childrens with down syndrome to learn classifyng wet and dry waste by looking at the images. The app teaches and tells using text to speech weather the choice made by the individual is right or not, so to improve their performance of special children.
@@ -177,9 +138,9 @@ Our app enables special childrens with down syndrome to learn classifyng wet and
 HackPac
 
 ## Team Members
-* [Vishesh Luthra](http://guthub.com/visheshluthra)
-* [Disha Patel](http://guthub.com/disha110)
-* [Nandini Garg](http://guthub.com/nandinigarg21)
+- [Vishesh Luthra](http://guthub.com/visheshluthra)
+- [Disha Patel](http://guthub.com/disha110)
+- [Nandini Garg](http://guthub.com/nandinigarg21)
 
 ## Description
 Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is visiting her after a long time. Can you help Amrita with a TIC TAC TOE app?This is a digitised version of a classic game of TIC TAC TOE. Use of this app will reduce the wastage of paper and make it easier for the user to keep a score.
