@@ -33,6 +33,21 @@ Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is
 ## Link
 https://github.com/visheshluthra/improved-eureka
 
+
+## Team Name
+New Coders
+
+## Team Members
+- Meghna Das
+- Simeen Khan Ayyub
+- Shritama Sengupta
+
+## Description
+We the NewCoders team got the problem statement that "Ahana's friends are fighting over dresses, They need help , hence she created a game to solve their problem".Our solution was that when any of her friends starts the game she gets to enter the size and occasion type,based on which she gets a dress of her size and occasion type automatically and the dress doesn't gets repeated for the same size( so you are unique😁).We believe this is a problem which is faced by all women and needs to be solved in more efficient ways (to save time of getting ready😉. Our solution was pretty simple and so we would love to get new ideas for this project.
+
+## Link
+https://github.com/Meghna-DAS/MLH-2019
+
 ## Team Name
 Octa Cat Adventures
 
