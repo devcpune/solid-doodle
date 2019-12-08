@@ -1,6 +1,6 @@
 # solid-doodle
 Repo for our first Hack Day in December 2019.
- 
+ ___
 ## Hacker Name : **Lucifer †**
 
 ### Description
@@ -9,6 +9,8 @@ A free video calling application without CAPEX and maintainance involved for And
 ### Link
 https://github.com/amannirala13/FreeEye
 
+___
+
 ## Hacker Name : Alphons Jaimon
 
 ### Description
@@ -16,6 +18,8 @@ Learning to use Azure Cloud Cognitive services and GitHub integration. Mood Dete
 
 ### Link
 https://github.com/AJV009/mooddetector/
+
+___
 
 ## Team Name : HackPac
 
@@ -30,6 +34,7 @@ Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is
 ### Link
 https://github.com/visheshluthra/improved-eureka
 
+___
 
 ## Team Name : New Coders
 
@@ -44,6 +49,8 @@ We the NewCoders team got the problem statement that "Ahana's friends are fighti
 ### Link
 https://github.com/Meghna-DAS/MLH-2019
 
+___
+
 ## Team Name : Octa Cat Adventures
 
 ### Team Members
@@ -56,6 +63,7 @@ A classic makeover of our old Rock-Paper-Scissor game
 ### Link
 https://github.com/sauravsomxz/Rock-Paper-Scissor
 
+___
 
 ## Team Name  : Angry Buddha
  
@@ -72,6 +80,7 @@ This is a humble attempt to track all such saplings around a volunteer's vicinit
 ### Link
 https://github.com/Devendrabhat/angry-buddha
 
+___
 
 ## Team Name : Slack Brainers  
     
@@ -92,7 +101,8 @@ Women Safety App where
 
 ### Link
 https://github.com/Knightfire1998/DotDashDot3.git  
-   
+
+___
 
 ## Team Name : Script
 
@@ -108,6 +118,8 @@ An event management system for college groups using face recognition to identify
 ### Link
 https://github.com/aniket-spidey/MLH
 
+___
+
 ## Team Name : GoldDi99er$
  
 ### Team Members
@@ -121,6 +133,8 @@ We tried creating an internet bot to buy and sell digital gold on Paytm Gold in 
              
 ### Link
 https://github.com/PranshuTople/GoldDigger
+
+___
 
 ## Team Name : Son-Of-Anton
 
@@ -141,6 +155,7 @@ An Online Judge System which also is one of the world's first Self Learning Ladd
 ### Link 
 https://github.com/pratikdaigavane/Son-Of-Anton
  
+ ___
 
 ## Hackers 
 - Amar Nagargoje
@@ -153,6 +168,8 @@ Our app enables special childrens with down syndrome to learn classifyng wet and
   
 ### Link 
  https://github.com/Amarn7/Learn
+
+___
 
 ## Team Name : Green Team
 
