@@ -19,17 +19,32 @@ Learning to use Azure Cloud Cognitive services and GitHub integration. Mood Dete
 ## Link
 https://github.com/AJV009/mooddetector/
 
- 
 ## Team Name
-Green Team
+HackPac
 
 ## Team Members
-- Adhiraaj Ravinder
-- Bhuvanesh Hingal
-- Vivek Singh
-   
+- [Vishesh Luthra](http://guthub.com/visheshluthra)
+- [Disha Patel](http://guthub.com/disha110)
+- [Nandini Garg](http://guthub.com/nandinigarg21)
+
+## Description
+Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is visiting her after a long time. Can you help Amrita with a TIC TAC TOE app?This is a digitised version of a classic game of TIC TAC TOE. Use of this app will reduce the wastage of paper and make it easier for the user to keep a score.
+
 ## Link
-https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
+https://github.com/visheshluthra/improved-eureka
+
+## Team Name
+Octa Cat Adventures
+
+## Team Members
+- Saurav Ranjan Maharana
+- Parikshit Marwah
+
+## Description
+A classic makeover of our old Rock-Paper-Scissor game
+
+## Link
+https://github.com/sauravsomxz/Rock-Paper-Scissor
 
 
 ## Team Name 
@@ -135,15 +150,12 @@ Our app enables special childrens with down syndrome to learn classifyng wet and
  https://github.com/Amarn7/Learn
 
 ## Team Name
-HackPac
+Green Team
 
 ## Team Members
-- [Vishesh Luthra](http://guthub.com/visheshluthra)
-- [Disha Patel](http://guthub.com/disha110)
-- [Nandini Garg](http://guthub.com/nandinigarg21)
-
-## Description
-Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is visiting her after a long time. Can you help Amrita with a TIC TAC TOE app?This is a digitised version of a classic game of TIC TAC TOE. Use of this app will reduce the wastage of paper and make it easier for the user to keep a score.
-
+- Adhiraaj Ravinder
+- Bhuvanesh Hingal
+- Vivek Singh
+   
 ## Link
-https://github.com/visheshluthra/improved-eureka
+https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
