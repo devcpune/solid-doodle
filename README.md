@@ -36,7 +36,26 @@ Repo for our first Hack Day in December 2019.
  * Evenger
 
 
- * Hacker Name: Lucifer †  |  Project: [**FreeEye**: A free video calling application without CAPEX and maintainance using agora.io](https://github.com/amannirala13/FreeEye)
+ * Lucifer †  
+ 
+ 
+## Hacker Name
+Lucifer †   
+
+## Description
+A free video calling application without CAPEX and maintainance using agora.io
+
+## Link
+https://github.com/amannirala13/FreeEye
+
+## Hacker Name 
+Alphons Jaimon
+
+## Description
+Learning to use Azure Cloud Cognitive services and GitHub integration. Mood Detector - Captures your face then detects the mood like Happy or Sad
+
+## Link
+https://github.com/AJV009/mooddetector/
 
  
 ## Team Name
