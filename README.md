@@ -24,9 +24,9 @@ ___
 ## Team Name : HackPac
 
 ### Team Members
-- [Vishesh Luthra](http://guthub.com/visheshluthra)
-- [Disha Patel](http://guthub.com/disha110)
-- [Nandini Garg](http://guthub.com/nandinigarg21)
+- [Vishesh Luthra](http://github.com/visheshluthra)
+- [Disha Patel](http://github.com/disha110)
+- [Nandini Garg](http://github.com/nandinigarg21)
 
 ### Description
 Amrita's mother has stricty asked her not to waste any paper. Her BFF Natasha is visiting her after a long time. Can you help Amrita with a TIC TAC TOE app?This is a digitised version of a classic game of TIC TAC TOE. Use of this app will reduce the wastage of paper and make it easier for the user to keep a score.
@@ -39,7 +39,7 @@ ___
 ## Team Name : New Coders
 
 ### Team Members
-- Meghna Das
+- [Meghna Das](https://github.com/Meghna-DAS)
 - Simeen Khan Ayyub
 - Shritama Sengupta
 
@@ -54,7 +54,7 @@ ___
 ## Team Name : Octa Cat Adventures
 
 ### Team Members
-- Saurav Ranjan Maharana
+- [Saurav Ranjan Maharana](https://github.com/sauravsomxz)
 - Parikshit Marwah
 
 ### Description
@@ -174,9 +174,9 @@ ___
 ## Team Name : Green Team
 
 ### Team Members
-- Adhiraaj Ravinder
-- Bhuvanesh Hingal
-- Vivek Singh
+- [Adhiraaj Ravinder](https://github.com/Adhiraaj28)
+- [Bhuvanesh Hingal](https://github.com/BhuvaneshHingal)
+- [Vivek Singh](https://github.com/vivmost)
    
 ### Link
-https://github.com/BhuvaneshHingal/MLH-2019/blob/master/GREEN%20TEAM.rar
+https://github.com/BhuvaneshHingal/MLH-2019
